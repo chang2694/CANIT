@@ -1,0 +1,7 @@
+{
+    "file_name": "test_flooding",
+    "time_step": 100,
+    "sampling_period": 1,
+    "per_of_samples": 0.1,
+    "auc_avg": 0.992021584845584
+}

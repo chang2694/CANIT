@@ -1,0 +1,7 @@
+{
+    "file_name": "test_plateau",
+    "time_step": 100,
+    "sampling_period": 5,
+    "per_of_samples": 0.1,
+    "auc_avg": 0.9333400136884257
+}
